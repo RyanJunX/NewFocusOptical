@@ -1,0 +1,182 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New Focus Optical Centre / 新视眼镜</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <a class="brand" href="#home">
+        <span class="brand-mark">NF</span>
+        <span><strong>New Focus Optical Centre</strong><small>新视眼镜 · Ipoh</small></span>
+      </a>
+      <nav class="main-nav"><a href="#home" data-view-link="store">主页</a></nav>
+      <div class="language-switch">
+        <button type="button" data-lang="zh">中</button>
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="ms">BM</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="view" id="view-store" data-view="store">
+      <button class="side-toggle" type="button" id="sideToggle" aria-label="Toggle menu">☰</button>
+      <div class="client-shell">
+        <aside class="client-sidebar" id="clientSidebar">
+          <div class="sidebar-title"><strong>New Focus</strong><span>Optical Centre</span></div>
+          <a href="#home" data-client-nav="home" data-i18n="menuHome">主页</a>
+          <a href="#contact-lenses" data-client-nav="contact-lenses" data-i18n="menuContactsLens">隐形眼镜商品</a>
+          <a href="#contact" data-client-nav="contact" data-i18n="menuContact">联系方式</a>
+        </aside>
+
+        <div class="client-content">
+          <section class="client-section active" id="home" data-client-section="home">
+            <section class="hero-band home-hero">
+              <div class="hero-copy">
+                <p class="eyebrow" data-i18n="heroEyebrow">怡保本地眼镜店 · 老字号服务</p>
+                <h1 data-i18n="heroTitle">New Focus Optical Centre / 新视眼镜</h1>
+                <p data-i18n="heroText">扎根怡保多年的社区眼镜店，提供验光咨询、眼镜配置、隐形眼镜选购与售后调整服务。我们重视清楚说明、合适推荐和稳定的门店跟进。</p>
+                <div class="hero-actions">
+                  <a class="btn primary" href="#contact-lenses" data-i18n="browseProducts">查看隐形眼镜</a>
+                  <a class="btn secondary" href="#contact" data-i18n="menuContact">联系方式</a>
+                  <a class="btn whatsapp" href="https://wa.me/60125128668" target="_blank" rel="noreferrer">WhatsApp</a>
+                </div>
+              </div>
+              <div class="store-panel logo-showcase">
+                <div class="logo-frame"><img src="logo.png" alt="New Focus Optical Centre logo"></div>
+                <dl>
+                  <div><dt data-i18n="featureYears">多年本地服务</dt><dd data-i18n="featureYearsText">服务怡保与周边社区，熟悉本地顾客日常配镜和隐形眼镜需求。</dd></div>
+                  <div><dt data-i18n="featureService">主打服务</dt><dd data-i18n="featureServiceText">验光咨询、眼镜配置、隐形眼镜零售、镜框调整与售后跟进。</dd></div>
+                  <div><dt data-i18n="featureCare">清楚报价</dt><dd data-i18n="featureCareText">线上先查看产品与参考价，再通过 WhatsApp 或门店确认库存和最终价格。</dd></div>
+                </dl>
+              </div>
+            </section>
+            <section class="content-section feature-grid">
+              <article class="card feature-card"><strong data-i18n="homeFeatureOne">专业建议</strong><p data-i18n="homeFeatureOneText">根据日常使用场景、预算和舒适度需求，协助顾客选择适合的镜片或隐形眼镜。</p></article>
+              <article class="card feature-card"><strong data-i18n="homeFeatureTwo">门店跟进</strong><p data-i18n="homeFeatureTwoText">线上咨询后可到怡保门店确认产品、取货、调整或询问后续护理方式。</p></article>
+              <article class="card feature-card"><strong data-i18n="homeFeatureThree">品牌选择</strong><p data-i18n="homeFeatureThreeText">先以 ACUVUE 隐形眼镜为示例，后续可逐步加入更多品牌和真实库存。</p></article>
+            </section>
+          </section>
+
+          <section class="client-section" id="contact-lenses" data-client-section="contact-lenses">
+            <section class="content-section">
+              <div class="section-title-row">
+                <div>
+                  <p class="eyebrow" data-i18n="catalogEyebrow">隐形眼镜</p>
+                  <h2 data-i18n="catalogTitle">按品牌与系列筛选</h2>
+                  <p class="muted" data-i18n="catalogIntro">先选择品牌，再选择品牌内的系列或类别。当前示例品牌为 ACUVUE。</p>
+                </div>
+              </div>
+              <div class="lens-controls card">
+                <label><span data-i18n="brandLabel">品牌</span><select id="brandSelect"></select></label>
+                <div>
+                  <strong data-i18n="categoryLabel">Series / Categories</strong>
+                  <div class="category-tabs" id="categoryTabs"></div>
+                </div>
+              </div>
+              <div class="lens-section-list" id="lensSectionList"></div>
+              <p class="price-note" data-i18n="priceNote">以上为建议零售价，并已包含 SST。请以 WhatsApp 或门店最终确认为准。</p>
+            </section>
+          </section>
+
+          <section class="client-section" id="contact" data-client-section="contact">
+            <section class="content-section contact-layout">
+              <div class="card contact-card">
+                <p class="eyebrow" data-i18n="contactEyebrow">联系方式</p>
+                <h2>New Focus Optical Centre / 新视眼镜</h2>
+                <dl>
+                  <div><dt data-i18n="addressLabel">地址</dt><dd>261, Jalan Gunung Rapat, Taman Ipoh Jaya, 31350 Ipoh, Perak</dd></div>
+                  <div><dt data-i18n="hoursLabel">营业时间</dt><dd>11:00 AM - 7:30 PM</dd></div>
+                  <div><dt>WhatsApp</dt><dd>+60 12-512 8668</dd></div>
+                </dl>
+                <a class="btn whatsapp full" href="https://wa.me/60125128668" target="_blank" rel="noreferrer" data-i18n="contactWhatsapp">WhatsApp 咨询</a>
+              </div>
+              <div class="card contact-card quiet-map"><strong>Ipoh Jaya</strong><span>Taman Ipoh Jaya · Gunung Rapat</span></div>
+            </section>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="view-admin-login" data-view="admin-login">
+      <section class="login-layout">
+        <form class="card login-card" id="adminLoginForm">
+          <p class="eyebrow">管理员入口 / Admin Access</p>
+          <h1>管理员登录</h1>
+          <p class="muted">后台不会出现在客户导航里。请通过 <strong>/#admin</strong> 或 <strong>/#orders</strong> 进入。</p>
+          <label><span>用户名 / Username</span><input name="username" autocomplete="username" required></label>
+          <label><span>密码 / Password</span><input name="password" type="password" autocomplete="current-password" required></label>
+          <button class="btn primary full" type="submit">登录 / Login</button>
+          <p class="form-status login-error" id="adminLoginStatus"></p>
+        </form>
+      </section>
+    </section>
+
+    <section class="view" id="view-admin" data-view="admin">
+      <section class="content-section admin-layout">
+        <aside class="admin-sidebar card">
+          <p class="eyebrow">管理员端 / Admin</p>
+          <h1>隐形眼镜商品管理</h1>
+          <p class="muted">这里先用浏览器本地储存模拟数据库。保存后客户页面会马上更新。</p>
+          <div class="admin-stats" id="adminStats"></div>
+          <div class="button-stack">
+            <a class="btn secondary" href="#orders">订单管理 / Orders</a>
+            <button class="btn secondary" type="button" data-admin-logout>退出登录 / Logout</button>
+            <button class="btn primary" type="button" id="newProductBtn">新增商品</button>
+            <button class="btn secondary" type="button" id="exportDataBtn">导出 JSON</button>
+            <label class="btn secondary file-button"><span>导入 JSON</span><input id="importDataInput" type="file" accept="application/json"></label>
+            <button class="btn danger" type="button" id="resetDataBtn">重置样本数据</button>
+          </div>
+        </aside>
+        <div class="admin-main">
+          <div class="card table-card">
+            <div class="section-title-row compact"><div><p class="eyebrow">库存 / Inventory</p><h2>商品列表</h2></div></div>
+            <div class="table-scroll"><table><thead><tr><th>Brand</th><th>Category</th><th>Product</th><th>Price</th><th>Status</th></tr></thead><tbody id="adminProductRows"></tbody></table></div>
+          </div>
+          <form class="card admin-form" id="productForm">
+            <div class="section-title-row compact"><div><p class="eyebrow">编辑器 / Editor</p><h2>商品资料</h2></div><button class="btn danger subtle" type="button" id="deleteProductBtn">删除商品</button></div>
+            <div class="form-grid three">
+              <label><span>ID</span><input name="id" required></label>
+              <label><span>Brand</span><input name="brand" required></label>
+              <label><span>Category ID</span><input name="category" required></label>
+              <label><span>中文分类</span><input name="categoryZh" required></label>
+              <label><span>English Category</span><input name="categoryEn" required></label>
+              <label><span>Kategori BM</span><input name="categoryMs" required></label>
+              <label><span>类型 / Type</span><select name="type"><option value="standard">Standard lens</option><option value="color">Color lens</option></select></label>
+              <label><span>Product Name 中文</span><input name="nameZh" required></label>
+              <label><span>Product Name EN</span><input name="nameEn" required></label>
+              <label><span>Nama Produk BM</span><input name="nameMs" required></label>
+              <label><span>图片路径 / Image Path</span><input name="image" placeholder="images/product.jpg"></label>
+              <label><span>上架</span><select name="active"><option value="true">Yes</option><option value="false">No</option></select></label>
+            </div>
+            <label class="wide-label"><span>中文描述</span><textarea name="summaryZh"></textarea></label>
+            <label class="wide-label"><span>English Description</span><textarea name="summaryEn"></textarea></label>
+            <label class="wide-label"><span>Malay Description</span><textarea name="summaryMs"></textarea></label>
+            <label class="wide-label"><span>规格 JSON / Variants JSON</span><textarea name="variants" rows="10" spellcheck="false"></textarea></label>
+            <label class="wide-label"><span>颜色 JSON / Colors JSON</span><textarea name="colors" rows="8" spellcheck="false"></textarea></label>
+            <label class="wide-label"><span>Collections / Notes JSON</span><textarea name="notes" rows="4" spellcheck="false"></textarea></label>
+            <div class="form-actions"><button class="btn primary" type="submit">保存商品</button><p class="form-status" id="adminFormStatus"></p></div>
+          </form>
+        </div>
+      </section>
+    </section>
+
+    <section class="view" id="view-orders" data-view="orders">
+      <section class="content-section">
+        <div class="section-title-row"><div><p class="eyebrow">订单管理 / Orders</p><h1>本地模拟订单</h1><p class="muted">客户通过 WhatsApp 咨询前，可先在客户端生成本地询价记录。</p></div><div class="hero-actions"><a class="btn secondary" href="#admin">商品管理 / Products</a><button class="btn secondary" type="button" data-admin-logout>退出登录 / Logout</button><button class="btn secondary" id="clearOrdersBtn" type="button">清空模拟订单</button></div></div>
+        <div class="order-board" id="orderBoard"></div>
+      </section>
+    </section>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
+
+
+
