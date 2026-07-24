@@ -596,3 +596,47 @@ tbody tr.selected {
     min-height: 36px;
   }
 }
+
+/* Contact shop photo */
+.shop-photo-card {
+  padding: 0;
+  overflow: hidden;
+  min-height: 0;
+  background: #fff;
+  display: grid;
+  align-content: stretch;
+}
+
+.shop-photo-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+
+.shop-photo-caption {
+  padding: 16px 18px 18px;
+  background: #fff;
+}
+
+.shop-photo-caption strong,
+.shop-photo-caption span {
+  display: block;
+}
+
+.shop-photo-caption strong {
+  color: var(--red-dark);
+  font-size: 28px;
+  line-height: 1.1;
+}
+
+.shop-photo-caption span {
+  margin-top: 4px;
+  color: var(--muted);
+}
+
+@media (max-width: 980px) {
+  .shop-photo-caption strong {
+    font-size: 24px;
+  }
+}
