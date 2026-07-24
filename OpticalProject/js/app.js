@@ -45,7 +45,7 @@
       "acuvue-moist-astigmatism": "ACUVUE_official_HD_images/02_website_square_1200_white/06_1-Day_ACUVUE_MOIST_Astigmatism_1200x1200.jpg",
       "acuvue-vita-astigmatism": "ACUVUE_official_HD_images/02_website_square_1200_white/08_ACUVUE_VITA_Astigmatism_1200x1200.jpg",
       "acuvue-moist-multifocal": "ACUVUE_official_HD_images/02_website_square_1200_white/09_1-Day_ACUVUE_MOIST_Multifocal_1200x1200.jpg",
-      "acuvue-define": "美瞳封面.png"
+      "acuvue-define": "pic/美瞳封面.png"
     },
     colors: {
       "fresh-grayzel": "美瞳13款独立图片_600x600/13_FRESH_GRAYZEL_冷灰棕.png",
@@ -515,6 +515,7 @@
 
   document.addEventListener("DOMContentLoaded", () => { bindEvents(); applyLanguage(state.lang); route(); });
 })();
+
 
 
 

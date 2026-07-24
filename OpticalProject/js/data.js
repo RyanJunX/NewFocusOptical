@@ -61,7 +61,7 @@
       type: "color",
       name: { zh: "ACUVUE DEFINE", en: "ACUVUE DEFINE", ms: "ACUVUE DEFINE" },
       summary: { zh: "以颜色和自然放大效果为主的美瞳日抛系列。点进商品后可选择颜色并查看佩戴示例。", en: "Beauty daily lenses focused on color and natural eye definition. Select a color inside the product detail to preview the wearing effect.", ms: "Kanta harian berwarna untuk efek mata lebih jelas secara semula jadi. Pilih warna dalam butiran produk untuk pratonton kesan pemakaian." },
-      image: "美瞳封面.png",
+      image: "pic/美瞳封面.png",
       colors: [
         { id: "fresh-grayzel", name: "Fresh Grayzel", group: "Fresh Collection", image: "美瞳13款独立图片_600x600/13_FRESH_GRAYZEL_冷灰棕.png", colorHex: "#8f918c" },
         { id: "fresh-hazel", name: "Fresh Hazel", group: "Fresh Collection", image: "美瞳13款独立图片_600x600/12_FRESH_HAZEL_琥珀棕.png", colorHex: "#9b7048" },
@@ -140,6 +140,7 @@
   ],
   orders: []
 };
+
 
 
 
