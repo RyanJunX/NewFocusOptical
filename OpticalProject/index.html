@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
   <header class="app-header">
     <div class="header-inner">
       <a class="brand" href="#home">
-        <span class="brand-mark">NF</span>
+        <span class="brand-mark"><img src="assets/header-logo.png" alt="New Focus Optical Centre logo"></span>
         <span><strong>New Focus Optical Centre</strong><small>新视眼镜 · Ipoh</small></span>
       </a>
       <nav class="main-nav"><a href="#home" data-view-link="store">主页</a></nav>
@@ -38,29 +38,36 @@
         <div class="client-content">
           <section class="client-section active" id="home" data-client-section="home">
             <section class="hero-band home-hero">
+              <div class="card hero-poster">
+                <img src="pic/advertisement.png" alt="New Focus Optical Centre advertisement">
+              </div>
               <div class="hero-copy">
                 <p class="eyebrow" data-i18n="heroEyebrow">怡保本地眼镜店 · 老字号服务</p>
-                <h1 data-i18n="heroTitle">New Focus Optical Centre / 新视眼镜</h1>
-                <p data-i18n="heroText">扎根怡保多年的社区眼镜店，提供验光咨询、眼镜配置、隐形眼镜选购与售后调整服务。我们重视清楚说明、合适推荐和稳定的门店跟进。</p>
+                <h1 class="sr-only" data-i18n="heroTitle">New Focus Optical Centre / 新视眼镜</h1>
+                <div class="hero-signboard-frame"><img src="pic/logo.png" alt="New Focus Optical Centre / 新视眼镜"></div>
+                <p data-i18n="heroText">新视眼镜是扎根怡保多年的社区眼镜店。目前网站线上提供隐形眼镜款式浏览、参考价格与 WhatsApp 下单咨询；如需眼镜、验光或其他商品，欢迎通过 WhatsApp 联系或直接到店了解。</p>
                 <div class="hero-actions">
                   <a class="btn primary" href="#contact-lenses" data-i18n="browseProducts">查看隐形眼镜</a>
                   <a class="btn secondary" href="#contact" data-i18n="menuContact">联系方式</a>
                   <a class="btn whatsapp" href="https://wa.me/60125128668" target="_blank" rel="noreferrer">WhatsApp</a>
                 </div>
               </div>
-              <div class="store-panel logo-showcase">
-                <div class="logo-frame"><img src="pic/logo.png" alt="New Focus Optical Centre logo"></div>
+              <div class="store-panel logo-showcase hero-info-panel">
+                <div class="store-panel-header">
+                  <p class="eyebrow" data-i18n="heroPanelTitle">门店与下单方式</p>
+                  <p class="muted" data-i18n="heroPanelText">先在线浏览隐形眼镜款式与参考价格，再通过 WhatsApp 或到店确认库存、度数与购买细节。</p>
+                </div>
                 <dl>
-                  <div><dt data-i18n="featureYears">多年本地服务</dt><dd data-i18n="featureYearsText">服务怡保与周边社区，熟悉本地顾客日常配镜和隐形眼镜需求。</dd></div>
-                  <div><dt data-i18n="featureService">主打服务</dt><dd data-i18n="featureServiceText">验光咨询、眼镜配置、隐形眼镜零售、镜框调整与售后跟进。</dd></div>
-                  <div><dt data-i18n="featureCare">清楚报价</dt><dd data-i18n="featureCareText">线上先查看产品与参考价，再通过 WhatsApp 或门店确认库存和最终价格。</dd></div>
+                  <div><dt data-i18n="featureYears">多年本地服务</dt><dd data-i18n="featureYearsText">服务怡保与周边社区，熟悉本地顾客日常隐形眼镜与配镜需求。</dd></div>
+                  <div><dt data-i18n="featureService">线上选购为主</dt><dd data-i18n="featureServiceText">目前网站以隐形眼镜浏览、选购与咨询为主，其他眼镜商品欢迎 WhatsApp 或到店了解。</dd></div>
+                  <div><dt data-i18n="featureCare">清楚报价</dt><dd data-i18n="featureCareText">先在线查看系列与参考价，再通过 WhatsApp 或门店确认库存、度数与最终价格。</dd></div>
                 </dl>
               </div>
             </section>
             <section class="content-section feature-grid">
-              <article class="card feature-card"><strong data-i18n="homeFeatureOne">专业建议</strong><p data-i18n="homeFeatureOneText">根据日常使用场景、预算和舒适度需求，协助顾客选择适合的镜片或隐形眼镜。</p></article>
+              <article class="card feature-card"><strong data-i18n="homeFeatureOne">专业建议</strong><p data-i18n="homeFeatureOneText">可按度数、配戴频率、舒适度和预算，协助顾客选择更合适的隐形眼镜。</p></article>
               <article class="card feature-card"><strong data-i18n="homeFeatureTwo">门店跟进</strong><p data-i18n="homeFeatureTwoText">线上咨询后可到怡保门店确认产品、取货、调整或询问后续护理方式。</p></article>
-              <article class="card feature-card"><strong data-i18n="homeFeatureThree">品牌选择</strong><p data-i18n="homeFeatureThreeText">先以 ACUVUE 隐形眼镜为示例，后续可逐步加入更多品牌和真实库存。</p></article>
+              <article class="card feature-card"><strong data-i18n="homeFeatureThree">品牌与系列</strong><p data-i18n="homeFeatureThreeText">目前已收录 ACUVUE 与 Bausch & Lomb 隐形眼镜，并可按品牌、系列与类别快速筛选。</p></article>
             </section>
           </section>
 
@@ -70,16 +77,23 @@
                 <div>
                   <p class="eyebrow" data-i18n="catalogEyebrow">隐形眼镜</p>
                   <h2 data-i18n="catalogTitle">按品牌与系列筛选</h2>
-                  <p class="muted" data-i18n="catalogIntro">先选择品牌，再选择品牌内的系列或类别。当前示例品牌为 ACUVUE。</p>
+                  <p class="muted" data-i18n="catalogIntro">先选择品牌，再选择品牌内的系列与类别。</p>
                 </div>
               </div>
               <div class="lens-controls card">
-                <label><span data-i18n="brandLabel">品牌</span><select id="brandSelect"></select></label>
-                <div>
-                  <strong data-i18n="categoryLabel">Series / Categories</strong>
+                <div class="filter-row filter-row-primary">
+                  <label class="filter-field filter-brand-field"><span data-i18n="brandLabel">品牌</span><select id="brandSelect"></select></label>
+                  <div class="filter-group filter-series-group">
+                    <strong data-i18n="seriesLabel">系列</strong>
+                    <div class="category-tabs" id="seriesTabs"></div>
+                  </div>
+                </div>
+                <div class="filter-group filter-category-group">
+                  <strong data-i18n="categoryLabel">类别</strong>
                   <div class="category-tabs" id="categoryTabs"></div>
                 </div>
               </div>
+              <div id="seriesGuidePanel"></div>
               <div class="lens-section-list" id="lensSectionList"></div>
               <p class="price-note" data-i18n="priceNote">以上为建议零售价，并已包含 SST。请以 WhatsApp 或门店最终确认为准。</p>
             </section>
@@ -87,7 +101,7 @@
 
           <section class="client-section" id="contact" data-client-section="contact">
             <section class="content-section contact-layout">
-              <div class="card contact-card">
+              <div class="card contact-card contact-info-card">
                 <p class="eyebrow" data-i18n="contactEyebrow">联系方式</p>
                 <h2>New Focus Optical Centre / 新视眼镜</h2>
                 <dl>
@@ -95,9 +109,10 @@
                   <div><dt data-i18n="hoursLabel">营业时间</dt><dd>11:00 AM - 7:30 PM</dd></div>
                   <div><dt>WhatsApp</dt><dd>+60 12-512 8668</dd></div>
                 </dl>
-                <a class="btn whatsapp full" href="https://wa.me/60125128668" target="_blank" rel="noreferrer" data-i18n="contactWhatsapp">WhatsApp 咨询</a>
+                <a class="btn whatsapp full" href="https://wa.me/60125128668" target="_blank" rel="noreferrer" data-i18n="contactWhatsapp">立即通过 WhatsApp 下单</a>
+                <a class="btn secondary full" href="https://www.google.com/maps/dir/?api=1&destination=New%20Focus%20Optical%20Centre%2C%20261%2C%20Jalan%20Gunung%20Rapat%2C%20Taman%20Ipoh%20Jaya%2C%2031350%20Ipoh%2C%20Perak&travelmode=driving" target="_blank" rel="noreferrer" data-i18n="contactMaps">使用 Google Maps 导航</a>
               </div>
-                            <div class="card contact-card quiet-map shop-photo-card">
+              <div class="card contact-card quiet-map shop-photo-card contact-photo-card">
                 <img src="pic/Shop.png" alt="New Focus Optical Centre storefront">
                 <div class="shop-photo-caption"><strong>Ipoh Jaya</strong><span>Taman Ipoh Jaya · Gunung Rapat</span></div>
               </div>
@@ -140,13 +155,14 @@
         <div class="admin-main">
           <div class="card table-card">
             <div class="section-title-row compact"><div><p class="eyebrow">库存 / Inventory</p><h2>商品列表</h2></div></div>
-            <div class="table-scroll"><table><thead><tr><th>Brand</th><th>Category</th><th>Product</th><th>Price</th><th>Status</th></tr></thead><tbody id="adminProductRows"></tbody></table></div>
+            <div class="table-scroll"><table><thead><tr><th>Brand</th><th>Series</th><th>Category</th><th>Product</th><th>Price</th><th>Status</th></tr></thead><tbody id="adminProductRows"></tbody></table></div>
           </div>
           <form class="card admin-form" id="productForm">
             <div class="section-title-row compact"><div><p class="eyebrow">编辑器 / Editor</p><h2>商品资料</h2></div><button class="btn danger subtle" type="button" id="deleteProductBtn">删除商品</button></div>
             <div class="form-grid three">
               <label><span>ID</span><input name="id" required></label>
               <label><span>Brand</span><input name="brand" required></label>
+              <label><span>Series</span><input name="series" required></label>
               <label><span>Category ID</span><input name="category" required></label>
               <label><span>中文分类</span><input name="categoryZh" required></label>
               <label><span>English Category</span><input name="categoryEn" required></label>
