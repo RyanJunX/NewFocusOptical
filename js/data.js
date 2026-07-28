@@ -5,7 +5,7 @@
     whatsapp: "+60 12-512 8668",
     whatsappWaMe: "60125128668",
     address: "261, Jalan Gunung Rapat, Taman Ipoh Jaya, 31350 Ipoh, Perak",
-    hours: "11:00 AM - 7:30 PM"
+    hours: "Monday-Saturday 11:00 AM - 7:00 PM"
   },
   categories: [
     { id: "myopia-hyperopia", zh: "近视 / 远视隐形眼镜", en: "Myopia / Hyperopia Contact Lenses", ms: "Kanta Sentuh Rabun Jauh / Dekat" },

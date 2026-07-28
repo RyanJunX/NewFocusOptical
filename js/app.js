@@ -11,8 +11,9 @@
       heroEyebrow: "怡保本地眼镜店 · 老字号服务", heroTitle: "New Focus Optical Centre / 新视眼镜", heroText: "新视眼镜是扎根怡保多年的社区眼镜店。目前网站线上提供隐形眼镜款式浏览、参考价格与 WhatsApp 下单咨询；如需眼镜、验光或其他商品，欢迎通过 WhatsApp 联系或直接到店了解。", browseProducts: "查看隐形眼镜",
       addressLabel: "地址", hoursLabel: "营业时间", catalogEyebrow: "隐形眼镜", catalogTitle: "按品牌、系列与类别筛选", catalogIntro: "先选择品牌，再按该品牌下的系列与类别继续筛选。现已收录 ACUVUE 与 Bausch & Lomb。", brandLabel: "品牌", seriesLabel: "系列", categoryLabel: "类别", all: "ALL", allSeries: "全部系列", allCategories: "全部类别", seriesGuideEyebrow: "系列说明",
       product: "产品", ask: "立即通过 WhatsApp 下单", priceNote: "以上为建议零售价，并已包含 SST。请以 WhatsApp 或门店最终确认为准。",
+      shareProduct: "分享", linkCopied: "商品链接已复制。", copyLinkPrompt: "复制这个商品链接：",
       heroPanelTitle: "门店与下单方式", heroPanelText: "先在线浏览隐形眼镜款式与参考价格，再通过 WhatsApp 或到店确认库存、度数与购买细节。", featureYears: "多年本地服务", featureYearsText: "服务怡保与周边社区，熟悉本地顾客日常隐形眼镜与配镜需求。", featureService: "线上选购为主", featureServiceText: "目前网站以隐形眼镜浏览、选购与咨询为主，其他眼镜商品欢迎 WhatsApp 或到店了解。", featureCare: "清楚报价", featureCareText: "先在线查看系列与参考价，再通过 WhatsApp 或门店确认库存、度数与最终价格。", homeFeatureOne: "专业建议", homeFeatureOneText: "可按度数、配戴频率、舒适度和预算，协助顾客选择更合适的隐形眼镜。", homeFeatureTwo: "门店跟进", homeFeatureTwoText: "线上咨询后可到怡保门店确认产品、取货、调整或询问后续护理方式。", homeFeatureThree: "品牌与系列", homeFeatureThreeText: "目前已收录 ACUVUE 与 Bausch & Lomb 隐形眼镜，并可按品牌、系列与类别快速筛选。", homeNoteEyebrow: "补充说明", homeNoteTitle: "目前线上以隐形眼镜为主", homeNoteText: "如需购买眼镜、镜框、验光或咨询其他商品，欢迎通过 WhatsApp 联系，或直接到门店了解与选购。", contactEyebrow: "联系方式", contactWhatsapp: "立即通过 WhatsApp 下单", contactMaps: "使用 Google Maps 导航",
-      viewDetails: "查看规格", startingFrom: "起", imagePlaceholder: "产品图片位置", chooseSpec: "选择规格", chooseColor: "选择颜色", chooseVision: "选择近视 / 远视", choosePower: "选择左右眼度数", chooseQuantity: "选择数量", customQuantity: "自定义数量", selectedPrice: "当前参考价", unitPrice: "单盒价", estimatedTotal: "预计总价", color: "颜色", spec: "规格", selectedQty: "已选数量", selectedVision: "度数类型", myopia: "近视", hyperopia: "远视", rightEye: "右眼", leftEye: "左眼", sameAsRight: "左眼同右眼", sph: "SPH 度数", cyl: "CYL 散光", axis: "AXIS 轴位", addPower: "ADD 老花", selectPlaceholder: "请选择", notSelected: "未选择", defaultOnly: "此商品目前只有一个默认规格。", bundleAvailable: "买满 {qty} 盒可享 {price}{suffix} 优惠价。", bundleApplied: "已套用 {qty} 盒优惠价。",
+      viewDetails: "查看规格", startingFrom: "起", imagePlaceholder: "产品图片位置", chooseSpec: "选择规格", chooseColor: "选择颜色", chooseVision: "选择近视 / 远视", choosePower: "选择左右眼度数", chooseQuantity: "选择数量", customQuantity: "自定义数量", selectedPrice: "当前参考价", unitPrice: "单盒价", estimatedTotal: "预计总价", color: "颜色", spec: "规格", selectedQty: "已选数量", selectedVision: "度数类型", myopia: "近视", hyperopia: "远视", rightEye: "右眼", leftEye: "左眼", sameAsRight: "右眼同左眼", sph: "SPH 度数", cyl: "CYL 散光", axis: "AXIS 轴位", addPower: "ADD 老花", selectPlaceholder: "请选择", notSelected: "未选择", defaultOnly: "此商品目前只有一个默认规格。", bundleAvailable: "买满 {qty} 盒可享 {price}{suffix} 优惠价。", bundleApplied: "已套用 {qty} 盒优惠价。",
       saved: "已保存。", deleted: "已删除。", imported: "导入完成。", reset: "样本数据已重置。", invalid: "资料格式不正确。", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "暂无资料", emptyText: "请新增商品或重置样本数据。"
     },
     en: {
@@ -20,8 +21,9 @@
       heroEyebrow: "Ipoh optical store · Established local service", heroTitle: "New Focus Optical Centre", heroText: "New Focus Optical Centre is a long-serving community optical store in Ipoh. This website currently focuses on contact lens browsing, reference pricing, and WhatsApp ordering inquiries. For eyewear, eye checks, or other products, please contact us by WhatsApp or visit the store directly.", browseProducts: "View contact lenses",
       addressLabel: "Address", hoursLabel: "Business hours", catalogEyebrow: "Contact Lenses", catalogTitle: "Filter by Brand, Series, and Category", catalogIntro: "Select a brand first, then narrow the list by the series and category under that brand. ACUVUE and Bausch & Lomb are now included.", brandLabel: "Brand", seriesLabel: "Series", categoryLabel: "Category", all: "ALL", allSeries: "All Series", allCategories: "All Categories", seriesGuideEyebrow: "Series Focus",
       product: "Product", ask: "Order Now via WhatsApp", priceNote: "Prices shown are suggested retail prices and include SST. Final stock and price should be confirmed by WhatsApp or in store.",
+      shareProduct: "Share", linkCopied: "Product link copied.", copyLinkPrompt: "Copy this product link:",
       heroPanelTitle: "Store and Ordering", heroPanelText: "Browse contact lens styles and reference prices online first, then confirm stock, prescription, and purchase details by WhatsApp or in store.", featureYears: "Established Local Service", featureYearsText: "Serving Ipoh and nearby communities with practical contact lens and eyewear advice.", featureService: "Online Focus", featureServiceText: "The website currently focuses on contact lens browsing and inquiry, while other eyewear products remain available by WhatsApp or in store.", featureCare: "Clear Quotation", featureCareText: "Customers can review series and reference prices online, then confirm stock, prescription, and final pricing by WhatsApp or in store.", homeFeatureOne: "Professional Advice", homeFeatureOneText: "We help customers choose more suitable contact lenses based on prescription, wearing frequency, comfort needs, and budget.", homeFeatureTwo: "Store Follow-up", homeFeatureTwoText: "After online inquiry, customers can visit the Ipoh store for confirmation, pickup, adjustment, and care questions.", homeFeatureThree: "Brands and Series", homeFeatureThreeText: "ACUVUE and Bausch & Lomb contact lenses are currently listed, with fast filtering by brand, series, and category.", homeNoteEyebrow: "Additional Note", homeNoteTitle: "The website currently focuses on contact lenses", homeNoteText: "If you would like to buy eyewear, frames, book an eye check, or ask about other products, please contact us on WhatsApp or visit the store directly.", contactEyebrow: "Contact", contactWhatsapp: "Order Now via WhatsApp", contactMaps: "Navigate via Google Maps",
-      viewDetails: "View options", startingFrom: "From", imagePlaceholder: "Product image slot", chooseSpec: "Choose specification", chooseColor: "Choose color", chooseVision: "Choose myopia / hyperopia", choosePower: "Choose right / left eye power", chooseQuantity: "Choose quantity", customQuantity: "Custom quantity", selectedPrice: "Selected reference price", unitPrice: "Unit price", estimatedTotal: "Estimated total", color: "Color", spec: "Specification", selectedQty: "Selected quantity", selectedVision: "Power type", myopia: "Myopia", hyperopia: "Hyperopia", rightEye: "Right eye", leftEye: "Left eye", sameAsRight: "Same as right eye", sph: "SPH / Power", cyl: "CYL / Cylinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Select", notSelected: "Not selected", defaultOnly: "This product currently has one default specification.", bundleAvailable: "Buy {qty}+ boxes for {price}{suffix}.", bundleApplied: "Bundle price for {qty}+ boxes is applied.",
+      viewDetails: "View options", startingFrom: "From", imagePlaceholder: "Product image slot", chooseSpec: "Choose specification", chooseColor: "Choose color", chooseVision: "Choose myopia / hyperopia", choosePower: "Choose right / left eye power", chooseQuantity: "Choose quantity", customQuantity: "Custom quantity", selectedPrice: "Selected reference price", unitPrice: "Unit price", estimatedTotal: "Estimated total", color: "Color", spec: "Specification", selectedQty: "Selected quantity", selectedVision: "Power type", myopia: "Myopia", hyperopia: "Hyperopia", rightEye: "Right eye", leftEye: "Left eye", sameAsRight: "Right same as left", sph: "SPH / Power", cyl: "CYL / Cylinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Select", notSelected: "Not selected", defaultOnly: "This product currently has one default specification.", bundleAvailable: "Buy {qty}+ boxes for {price}{suffix}.", bundleApplied: "Bundle price for {qty}+ boxes is applied.",
       saved: "Saved.", deleted: "Deleted.", imported: "Import completed.", reset: "Sample data reset.", invalid: "Invalid data format.", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "No data", emptyText: "Add products or reset sample data."
     },
     ms: {
@@ -29,8 +31,9 @@
       heroEyebrow: "Kedai optik Ipoh · Servis tempatan lama", heroTitle: "New Focus Optical Centre", heroText: "New Focus Optical Centre ialah kedai optik komuniti yang telah lama berkhidmat di Ipoh. Laman web ini kini memberi tumpuan kepada semakan kanta sentuh, harga rujukan, dan pertanyaan tempahan melalui WhatsApp. Untuk cermin mata, pemeriksaan mata, atau produk lain, sila hubungi kami melalui WhatsApp atau datang terus ke kedai.", browseProducts: "Lihat kanta sentuh",
       addressLabel: "Alamat", hoursLabel: "Waktu operasi", catalogEyebrow: "Kanta Sentuh", catalogTitle: "Tapis Mengikut Jenama, Siri, dan Kategori", catalogIntro: "Pilih jenama dahulu, kemudian tapis lagi mengikut siri dan kategori di bawah jenama tersebut. ACUVUE dan Bausch & Lomb kini disertakan.", brandLabel: "Jenama", seriesLabel: "Siri", categoryLabel: "Kategori", all: "ALL", allSeries: "Semua Siri", allCategories: "Semua Kategori", seriesGuideEyebrow: "Fokus Siri",
       product: "Produk", ask: "Pesan Sekarang melalui WhatsApp", priceNote: "Harga ialah cadangan harga runcit dan termasuk SST. Stok dan harga akhir perlu disahkan melalui WhatsApp atau kedai.",
+      shareProduct: "Kongsi", linkCopied: "Pautan produk disalin.", copyLinkPrompt: "Salin pautan produk ini:",
       heroPanelTitle: "Kedai dan Tempahan", heroPanelText: "Semak dahulu gaya kanta sentuh dan harga rujukan secara online, kemudian sahkan stok, preskripsi, dan butiran pembelian melalui WhatsApp atau di kedai.", featureYears: "Servis Tempatan Lama", featureYearsText: "Berkhidmat untuk komuniti Ipoh dan kawasan sekitar dengan nasihat kanta sentuh serta cermin mata yang praktikal.", featureService: "Fokus Online", featureServiceText: "Laman web ini kini memberi tumpuan kepada semakan dan pertanyaan kanta sentuh, manakala produk cermin mata lain masih boleh didapati melalui WhatsApp atau di kedai.", featureCare: "Harga Jelas", featureCareText: "Pelanggan boleh semak siri dan harga rujukan online, kemudian sahkan stok, preskripsi, dan harga akhir melalui WhatsApp atau kedai.", homeFeatureOne: "Nasihat Profesional", homeFeatureOneText: "Kami membantu pelanggan memilih kanta sentuh yang lebih sesuai mengikut preskripsi, kekerapan pemakaian, keselesaan dan bajet.", homeFeatureTwo: "Susulan Kedai", homeFeatureTwoText: "Selepas pertanyaan online, pelanggan boleh datang ke kedai Ipoh untuk pengesahan, ambilan, pelarasan dan soalan penjagaan.", homeFeatureThree: "Jenama dan Siri", homeFeatureThreeText: "Kanta sentuh ACUVUE dan Bausch & Lomb kini tersedia, dengan tapisan pantas mengikut jenama, siri, dan kategori.", homeNoteEyebrow: "Maklumat Tambahan", homeNoteTitle: "Laman web kini memberi tumpuan kepada kanta sentuh", homeNoteText: "Jika anda ingin membeli cermin mata, bingkai, membuat pemeriksaan mata, atau bertanya tentang produk lain, sila hubungi kami melalui WhatsApp atau datang terus ke kedai.", contactEyebrow: "Hubungi", contactWhatsapp: "Pesan Sekarang melalui WhatsApp", contactMaps: "Navigasi dengan Google Maps",
-      viewDetails: "Lihat pilihan", startingFrom: "Dari", imagePlaceholder: "Ruang gambar produk", chooseSpec: "Pilih spesifikasi", chooseColor: "Pilih warna", chooseVision: "Pilih rabun jauh / dekat", choosePower: "Pilih kuasa mata kanan / kiri", chooseQuantity: "Pilih kuantiti", customQuantity: "Kuantiti sendiri", selectedPrice: "Harga rujukan dipilih", unitPrice: "Harga seunit", estimatedTotal: "Jumlah anggaran", color: "Warna", spec: "Spesifikasi", selectedQty: "Kuantiti dipilih", selectedVision: "Jenis kuasa", myopia: "Rabun jauh", hyperopia: "Rabun dekat", rightEye: "Mata kanan", leftEye: "Mata kiri", sameAsRight: "Sama seperti kanan", sph: "SPH / Kuasa", cyl: "CYL / Silinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Pilih", notSelected: "Belum dipilih", defaultOnly: "Produk ini mempunyai satu spesifikasi lalai sahaja.", bundleAvailable: "Beli {qty}+ kotak untuk {price}{suffix}.", bundleApplied: "Harga promosi untuk {qty}+ kotak sedang digunakan.",
+      viewDetails: "Lihat pilihan", startingFrom: "Dari", imagePlaceholder: "Ruang gambar produk", chooseSpec: "Pilih spesifikasi", chooseColor: "Pilih warna", chooseVision: "Pilih rabun jauh / dekat", choosePower: "Pilih kuasa mata kanan / kiri", chooseQuantity: "Pilih kuantiti", customQuantity: "Kuantiti sendiri", selectedPrice: "Harga rujukan dipilih", unitPrice: "Harga seunit", estimatedTotal: "Jumlah anggaran", color: "Warna", spec: "Spesifikasi", selectedQty: "Kuantiti dipilih", selectedVision: "Jenis kuasa", myopia: "Rabun jauh", hyperopia: "Rabun dekat", rightEye: "Mata kanan", leftEye: "Mata kiri", sameAsRight: "Kanan sama seperti kiri", sph: "SPH / Kuasa", cyl: "CYL / Silinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Pilih", notSelected: "Belum dipilih", defaultOnly: "Produk ini mempunyai satu spesifikasi lalai sahaja.", bundleAvailable: "Beli {qty}+ kotak untuk {price}{suffix}.", bundleApplied: "Harga promosi untuk {qty}+ kotak sedang digunakan.",
       saved: "Disimpan.", deleted: "Dipadam.", imported: "Import selesai.", reset: "Data sampel telah diset semula.", invalid: "Format data tidak sah.", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "Tiada data", emptyText: "Tambah produk atau set semula data sampel."
     }
   };
@@ -246,6 +249,43 @@
   function catLabel(categoryId) { const cat = state.data.categories.find(item => item.id === categoryId); return cat ? (cat[state.lang] || cat.en || cat.zh) : categoryId; }
   function productRows() { return activeProducts().filter(item => item.brand === state.selectedBrand && (state.selectedSeries === "all" || item.series === state.selectedSeries) && (state.selectedCategory === "all" || item.category === state.selectedCategory)); }
   function productById(id) { return state.data.products.find(item => item.id === id); }
+  function productHash(productId) { return `product=${encodeURIComponent(productId)}`; }
+  function productUrl(productId) { const url = new URL(location.href); url.hash = productHash(productId); return url.toString(); }
+  function selectProduct(product) {
+    if (!product) return;
+    const isSameProduct = state.selectedProductId === product.id;
+    state.selectedProductId = product.id;
+    state.selectedBrand = product.brand;
+    state.selectedSeries = product.series || "all";
+    state.selectedCategory = product.category || "all";
+    if (!isSameProduct) {
+      state.selectedVariantId = product.variants?.[0]?.id || null;
+      state.selectedQty = 1;
+      state.selectedColorId = product.colors?.[0]?.id || null;
+      state.selectedVisionType = null;
+      state.selectedEyes = emptyEyeSelections();
+    }
+  }
+  async function shareProduct(productId) {
+    const product = productById(productId);
+    if (!product) return;
+    const url = productUrl(product.id);
+    const title = localText(product.name);
+    try {
+      if (navigator.share) {
+        await navigator.share({ title, text: title, url });
+        return;
+      }
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(url);
+        window.alert(copy[state.lang].linkCopied);
+        return;
+      }
+    } catch (error) {
+      if (error?.name === "AbortError") return;
+    }
+    window.prompt(copy[state.lang].copyLinkPrompt, url);
+  }
   function variantById(product, id) { return (product?.variants || []).find(item => item.id === id) || product?.variants?.[0] || null; }
   function colorById(product, id) { return (product?.colors || []).find(item => item.id === id) || product?.colors?.[0] || null; }
   function emptyState() { return `<div class="empty-state"><strong>${copy[state.lang].empty}</strong><p>${copy[state.lang].emptyText}</p></div>`; }
@@ -301,6 +341,9 @@
   }
   function copyRightEyeToLeft() {
     state.selectedEyes.left = { ...(state.selectedEyes?.right || emptyEyeSelections().right) };
+  }
+  function copyLeftEyeToRight() {
+    state.selectedEyes.right = { ...(state.selectedEyes?.left || emptyEyeSelections().left) };
   }
   function setVisionType(type) {
     state.selectedVisionType = type || null;
@@ -439,9 +482,9 @@
     const fields = prescriptionFields(product);
     if (!fields.length) return "";
     return `<div class="detail-option-block eye-power-block">
-      <div class="eye-power-head"><strong>${copy[state.lang].choosePower}</strong><button type="button" class="btn secondary mini" data-same-as-right>${copy[state.lang].sameAsRight}</button></div>
+      <div class="eye-power-head"><strong>${copy[state.lang].choosePower}</strong><button type="button" class="btn secondary mini" data-same-as-left>${copy[state.lang].sameAsRight}</button></div>
       <div class="eye-power-grid">
-        ${["right", "left"].map(eye => `<div class="eye-card"><strong>${copy[state.lang][eye === "right" ? "rightEye" : "leftEye"]}</strong>${fields.map(field => renderEyeSelect(eye, field)).join("")}</div>`).join("")}
+        ${["left", "right"].map(eye => `<div class="eye-card"><strong>${copy[state.lang][eye === "right" ? "rightEye" : "leftEye"]}</strong>${fields.map(field => renderEyeSelect(eye, field)).join("")}</div>`).join("")}
       </div>
     </div>`;
   }
@@ -454,7 +497,7 @@
   }
   function renderEyeSummary(product) {
     if (!prescriptionFields(product).length) return "";
-    return `<div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(eyeSummary(product, "right"))}</dd></div><div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(eyeSummary(product, "left"))}</dd></div>`;
+    return `<div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(eyeSummary(product, "left"))}</dd></div><div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(eyeSummary(product, "right"))}</dd></div>`;
   }
   function renderVisionSummary(product) {
     if (!visionTypes(product).length) return "";
@@ -537,15 +580,20 @@
   function renderProductCard(product) {
     const selected = product.id === state.selectedProductId;
     const replacements = Array.from(new Set((product.variants || []).map(v => localText(v.replacement)).filter(Boolean))).join(" / ");
-    return `<button type="button" class="lens-product-card ${selected ? "active" : ""}" data-product-id="${escapeHtml(product.id)}">
-      ${renderImageSlot(product)}
-      <span class="product-category-pill">${escapeHtml(product.series)} · ${escapeHtml(catLabel(product.category))}</span>
-      <strong>${escapeHtml(localText(product.name))}</strong>
-      <p>${escapeHtml(localText(product.summary))}</p>
-      <span class="product-card-meta">${escapeHtml(replacements || copy[state.lang].defaultOnly)}</span>
-      <span class="product-card-price">${copy[state.lang].startingFrom} ${rm(lowestUnitPrice(product))}${perBox()}</span>
-      <span class="btn secondary mini">${copy[state.lang].viewDetails}</span>
-    </button>`;
+    return `<article class="lens-product-card ${selected ? "active" : ""}">
+      <button type="button" class="lens-card-main" data-product-id="${escapeHtml(product.id)}">
+        ${renderImageSlot(product)}
+        <span class="product-category-pill">${escapeHtml(product.series)} · ${escapeHtml(catLabel(product.category))}</span>
+        <strong>${escapeHtml(localText(product.name))}</strong>
+        <p>${escapeHtml(localText(product.summary))}</p>
+        <span class="product-card-meta">${escapeHtml(replacements || copy[state.lang].defaultOnly)}</span>
+        <span class="product-card-price">${copy[state.lang].startingFrom} ${rm(lowestUnitPrice(product))}${perBox()}</span>
+      </button>
+      <div class="product-card-actions">
+        <button type="button" class="btn secondary mini" data-product-id="${escapeHtml(product.id)}">${copy[state.lang].viewDetails}</button>
+        <button type="button" class="btn secondary mini" data-share-product-id="${escapeHtml(product.id)}">${copy[state.lang].shareProduct}</button>
+      </div>
+    </article>`;
   }
   function renderImageSlot(product, color, variant) {
     const image = color?.image || variant?.image || product.image;
@@ -622,7 +670,20 @@
     document.querySelectorAll("[data-view-link]").forEach(link => link.classList.toggle("active", link.dataset.viewLink === view));
   }
   function route() {
-    const hash = (location.hash || "#home").replace("#", "") || "home";
+    const rawHash = (location.hash || "#home").replace("#", "") || "home";
+    const productMatch = rawHash.match(/^product=(.+)$/);
+    if (productMatch) {
+      const product = productById(decodeURIComponent(productMatch[1]));
+      if (product) {
+        setView("store");
+        state.clientSection = "contact-lenses";
+        selectProduct(product);
+        renderClient();
+        window.setTimeout(() => document.getElementById("lensDetailPanel")?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
+        return;
+      }
+    }
+    const hash = rawHash;
     if (hash === "admin" || hash === "orders") {
       if (!state.adminAuthed) { setView("admin-login"); return; }
       setView(hash === "orders" ? "orders" : "admin");
@@ -752,13 +813,13 @@
     if (!product || !variant) return;
     const color = product.type === "color" ? colorById(product, state.selectedColorId) : null;
     const pricing = selectedPricing(product, variant);
-    const rightEye = eyeSummary(product, "right");
     const leftEye = eyeSummary(product, "left");
+    const rightEye = eyeSummary(product, "right");
     const visionType = effectiveVisionType(product);
     const order = { id: `INQ-${Date.now()}`, createdAt: new Date().toISOString(), productName: localText(product.name), productId: product.id, variantId: variant.id, variantLabel: variantLabel(variant, product.type === "color"), colorName: color?.name || "", visionType: visionType ? copy[state.lang][visionType] : "", rightEye, leftEye, quantity: pricing.qty, unitPrice: pricing.unitPrice, total: pricing.total, status: "New" };
     state.data.orders.unshift(order);
     saveData();
-    const prescriptionText = prescriptionFields(product).length ? `${inquiryVisionText(product)} Right eye: ${rightEye}. Left eye: ${leftEye}.` : inquiryVisionText(product);
+    const prescriptionText = prescriptionFields(product).length ? `${inquiryVisionText(product)} Left eye: ${leftEye}. Right eye: ${rightEye}.` : inquiryVisionText(product);
     const message = `Hi New Focus Optical Centre, I want to order ${order.productName} ${order.variantLabel}${order.colorName ? " - " + order.colorName : ""}.${prescriptionText} Quantity ${order.quantity} ${order.quantity > 1 ? "boxes" : "box"}, reference unit price ${rm(order.unitPrice)}${perBox()}, reference total ${rm(order.total)}.`;
     window.open(`https://wa.me/${state.data.business.whatsappWaMe}?text=${encodeURIComponent(message)}`, "_blank", "noreferrer");
   }
@@ -766,7 +827,7 @@
     const host = document.getElementById("orderBoard");
     if (!host) return;
     const orders = state.data.orders || [];
-    host.innerHTML = orders.length ? orders.map(order => `<article class="card order-card"><div><strong>${escapeHtml(order.id)}</strong><span>${new Date(order.createdAt).toLocaleString()}</span></div><h3>${escapeHtml(order.productName)}</h3><p>${escapeHtml(order.variantLabel)}${order.colorName ? " · " + escapeHtml(order.colorName) : ""}</p><dl>${order.visionType ? `<div><dt>${copy[state.lang].selectedVision}</dt><dd>${escapeHtml(order.visionType)}</dd></div>` : ""}${order.rightEye ? `<div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(order.rightEye)}</dd></div>` : ""}${order.leftEye ? `<div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(order.leftEye)}</dd></div>` : ""}<div><dt>Qty</dt><dd>${qtyText(order.quantity)}</dd></div><div><dt>Unit</dt><dd>${rm(order.unitPrice)}${perBox()}</dd></div><div><dt>Total</dt><dd>${rm(order.total)}</dd></div></dl></article>`).join("") : emptyState();
+    host.innerHTML = orders.length ? orders.map(order => `<article class="card order-card"><div><strong>${escapeHtml(order.id)}</strong><span>${new Date(order.createdAt).toLocaleString()}</span></div><h3>${escapeHtml(order.productName)}</h3><p>${escapeHtml(order.variantLabel)}${order.colorName ? " · " + escapeHtml(order.colorName) : ""}</p><dl>${order.visionType ? `<div><dt>${copy[state.lang].selectedVision}</dt><dd>${escapeHtml(order.visionType)}</dd></div>` : ""}${order.leftEye ? `<div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(order.leftEye)}</dd></div>` : ""}${order.rightEye ? `<div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(order.rightEye)}</dd></div>` : ""}<div><dt>Qty</dt><dd>${qtyText(order.quantity)}</dd></div><div><dt>Unit</dt><dd>${rm(order.unitPrice)}${perBox()}</dd></div><div><dt>Total</dt><dd>${rm(order.total)}</dd></div></dl></article>`).join("") : emptyState();
   }
   function clearOrders() { state.data.orders = []; saveData(); renderOrders(); }
 
@@ -788,14 +849,13 @@
       const qtyStepButton = event.target.closest("[data-qty-step]");
       const colorButton = event.target.closest("[data-color-id]");
       const visionButton = event.target.closest("[data-vision-type]");
-      if (productButton) {
+      const shareButton = event.target.closest("[data-share-product-id]");
+      if (shareButton) {
+        shareProduct(shareButton.dataset.shareProductId);
+      } else if (productButton) {
         const product = productById(productButton.dataset.productId);
-        state.selectedProductId = product?.id || null;
-        state.selectedVariantId = product?.variants?.[0]?.id || null;
-        state.selectedQty = 1;
-        state.selectedColorId = product?.colors?.[0]?.id || null;
-        state.selectedVisionType = null;
-        state.selectedEyes = emptyEyeSelections();
+        selectProduct(product);
+        if (product) history.pushState(null, "", `#${productHash(product.id)}`);
         renderClient();
         document.getElementById("lensDetailPanel")?.scrollIntoView({ behavior: "smooth", block: "start" });
       } else if (variantButton) {
@@ -808,8 +868,8 @@
         state.selectedQty = sanitizeQty(Number(state.selectedQty) + Number(qtyStepButton.dataset.qtyStep)); renderClient();
       } else if (colorButton) {
         state.selectedColorId = colorButton.dataset.colorId; renderClient();
-      } else if (event.target.closest("[data-same-as-right]")) {
-        copyRightEyeToLeft(); renderClient();
+      } else if (event.target.closest("[data-same-as-left]")) {
+        copyLeftEyeToRight(); renderClient();
       } else if (event.target.closest("[data-close-detail]")) {
         resetProductSelection(); renderClient();
       } else if (event.target.closest("[data-inquiry]")) {
@@ -875,6 +935,7 @@
     document.getElementById("resetDataBtn")?.addEventListener("click", resetData);
     document.getElementById("clearOrdersBtn")?.addEventListener("click", clearOrders);
     window.addEventListener("hashchange", route);
+    window.addEventListener("popstate", route);
   }
 
   document.addEventListener("DOMContentLoaded", () => { bindEvents(); applyLanguage(state.lang); route(); });
