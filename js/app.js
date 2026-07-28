@@ -12,7 +12,7 @@
       addressLabel: "地址", hoursLabel: "营业时间", catalogEyebrow: "隐形眼镜", catalogTitle: "按品牌、系列与类别筛选", catalogIntro: "先选择品牌，再按该品牌下的系列与类别继续筛选。现已收录 ACUVUE 与 Bausch & Lomb。", brandLabel: "品牌", seriesLabel: "系列", categoryLabel: "类别", all: "ALL", allSeries: "全部系列", allCategories: "全部类别", seriesGuideEyebrow: "系列说明",
       product: "产品", ask: "立即通过 WhatsApp 下单", priceNote: "以上为建议零售价，并已包含 SST。请以 WhatsApp 或门店最终确认为准。",
       heroPanelTitle: "门店与下单方式", heroPanelText: "先在线浏览隐形眼镜款式与参考价格，再通过 WhatsApp 或到店确认库存、度数与购买细节。", featureYears: "多年本地服务", featureYearsText: "服务怡保与周边社区，熟悉本地顾客日常隐形眼镜与配镜需求。", featureService: "线上选购为主", featureServiceText: "目前网站以隐形眼镜浏览、选购与咨询为主，其他眼镜商品欢迎 WhatsApp 或到店了解。", featureCare: "清楚报价", featureCareText: "先在线查看系列与参考价，再通过 WhatsApp 或门店确认库存、度数与最终价格。", homeFeatureOne: "专业建议", homeFeatureOneText: "可按度数、配戴频率、舒适度和预算，协助顾客选择更合适的隐形眼镜。", homeFeatureTwo: "门店跟进", homeFeatureTwoText: "线上咨询后可到怡保门店确认产品、取货、调整或询问后续护理方式。", homeFeatureThree: "品牌与系列", homeFeatureThreeText: "目前已收录 ACUVUE 与 Bausch & Lomb 隐形眼镜，并可按品牌、系列与类别快速筛选。", homeNoteEyebrow: "补充说明", homeNoteTitle: "目前线上以隐形眼镜为主", homeNoteText: "如需购买眼镜、镜框、验光或咨询其他商品，欢迎通过 WhatsApp 联系，或直接到门店了解与选购。", contactEyebrow: "联系方式", contactWhatsapp: "立即通过 WhatsApp 下单", contactMaps: "使用 Google Maps 导航",
-      viewDetails: "查看规格", startingFrom: "起", imagePlaceholder: "产品图片位置", chooseSpec: "选择规格", chooseColor: "选择颜色", chooseQuantity: "选择数量", customQuantity: "自定义数量", selectedPrice: "当前参考价", unitPrice: "单盒价", estimatedTotal: "预计总价", color: "颜色", spec: "规格", selectedQty: "已选数量", defaultOnly: "此商品目前只有一个默认规格。", bundleAvailable: "买满 {qty} 盒可享 {price}{suffix} 优惠价。", bundleApplied: "已套用 {qty} 盒优惠价。",
+      viewDetails: "查看规格", startingFrom: "起", imagePlaceholder: "产品图片位置", chooseSpec: "选择规格", chooseColor: "选择颜色", chooseVision: "选择近视 / 远视", choosePower: "选择左右眼度数", chooseQuantity: "选择数量", customQuantity: "自定义数量", selectedPrice: "当前参考价", unitPrice: "单盒价", estimatedTotal: "预计总价", color: "颜色", spec: "规格", selectedQty: "已选数量", selectedVision: "度数类型", myopia: "近视", hyperopia: "远视", rightEye: "右眼", leftEye: "左眼", sameAsRight: "左眼同右眼", sph: "SPH 度数", cyl: "CYL 散光", axis: "AXIS 轴位", addPower: "ADD 老花", selectPlaceholder: "请选择", notSelected: "未选择", defaultOnly: "此商品目前只有一个默认规格。", bundleAvailable: "买满 {qty} 盒可享 {price}{suffix} 优惠价。", bundleApplied: "已套用 {qty} 盒优惠价。",
       saved: "已保存。", deleted: "已删除。", imported: "导入完成。", reset: "样本数据已重置。", invalid: "资料格式不正确。", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "暂无资料", emptyText: "请新增商品或重置样本数据。"
     },
     en: {
@@ -21,7 +21,7 @@
       addressLabel: "Address", hoursLabel: "Business hours", catalogEyebrow: "Contact Lenses", catalogTitle: "Filter by Brand, Series, and Category", catalogIntro: "Select a brand first, then narrow the list by the series and category under that brand. ACUVUE and Bausch & Lomb are now included.", brandLabel: "Brand", seriesLabel: "Series", categoryLabel: "Category", all: "ALL", allSeries: "All Series", allCategories: "All Categories", seriesGuideEyebrow: "Series Focus",
       product: "Product", ask: "Order Now via WhatsApp", priceNote: "Prices shown are suggested retail prices and include SST. Final stock and price should be confirmed by WhatsApp or in store.",
       heroPanelTitle: "Store and Ordering", heroPanelText: "Browse contact lens styles and reference prices online first, then confirm stock, prescription, and purchase details by WhatsApp or in store.", featureYears: "Established Local Service", featureYearsText: "Serving Ipoh and nearby communities with practical contact lens and eyewear advice.", featureService: "Online Focus", featureServiceText: "The website currently focuses on contact lens browsing and inquiry, while other eyewear products remain available by WhatsApp or in store.", featureCare: "Clear Quotation", featureCareText: "Customers can review series and reference prices online, then confirm stock, prescription, and final pricing by WhatsApp or in store.", homeFeatureOne: "Professional Advice", homeFeatureOneText: "We help customers choose more suitable contact lenses based on prescription, wearing frequency, comfort needs, and budget.", homeFeatureTwo: "Store Follow-up", homeFeatureTwoText: "After online inquiry, customers can visit the Ipoh store for confirmation, pickup, adjustment, and care questions.", homeFeatureThree: "Brands and Series", homeFeatureThreeText: "ACUVUE and Bausch & Lomb contact lenses are currently listed, with fast filtering by brand, series, and category.", homeNoteEyebrow: "Additional Note", homeNoteTitle: "The website currently focuses on contact lenses", homeNoteText: "If you would like to buy eyewear, frames, book an eye check, or ask about other products, please contact us on WhatsApp or visit the store directly.", contactEyebrow: "Contact", contactWhatsapp: "Order Now via WhatsApp", contactMaps: "Navigate via Google Maps",
-      viewDetails: "View options", startingFrom: "From", imagePlaceholder: "Product image slot", chooseSpec: "Choose specification", chooseColor: "Choose color", chooseQuantity: "Choose quantity", customQuantity: "Custom quantity", selectedPrice: "Selected reference price", unitPrice: "Unit price", estimatedTotal: "Estimated total", color: "Color", spec: "Specification", selectedQty: "Selected quantity", defaultOnly: "This product currently has one default specification.", bundleAvailable: "Buy {qty}+ boxes for {price}{suffix}.", bundleApplied: "Bundle price for {qty}+ boxes is applied.",
+      viewDetails: "View options", startingFrom: "From", imagePlaceholder: "Product image slot", chooseSpec: "Choose specification", chooseColor: "Choose color", chooseVision: "Choose myopia / hyperopia", choosePower: "Choose right / left eye power", chooseQuantity: "Choose quantity", customQuantity: "Custom quantity", selectedPrice: "Selected reference price", unitPrice: "Unit price", estimatedTotal: "Estimated total", color: "Color", spec: "Specification", selectedQty: "Selected quantity", selectedVision: "Power type", myopia: "Myopia", hyperopia: "Hyperopia", rightEye: "Right eye", leftEye: "Left eye", sameAsRight: "Same as right eye", sph: "SPH / Power", cyl: "CYL / Cylinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Select", notSelected: "Not selected", defaultOnly: "This product currently has one default specification.", bundleAvailable: "Buy {qty}+ boxes for {price}{suffix}.", bundleApplied: "Bundle price for {qty}+ boxes is applied.",
       saved: "Saved.", deleted: "Deleted.", imported: "Import completed.", reset: "Sample data reset.", invalid: "Invalid data format.", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "No data", emptyText: "Add products or reset sample data."
     },
     ms: {
@@ -30,7 +30,7 @@
       addressLabel: "Alamat", hoursLabel: "Waktu operasi", catalogEyebrow: "Kanta Sentuh", catalogTitle: "Tapis Mengikut Jenama, Siri, dan Kategori", catalogIntro: "Pilih jenama dahulu, kemudian tapis lagi mengikut siri dan kategori di bawah jenama tersebut. ACUVUE dan Bausch & Lomb kini disertakan.", brandLabel: "Jenama", seriesLabel: "Siri", categoryLabel: "Kategori", all: "ALL", allSeries: "Semua Siri", allCategories: "Semua Kategori", seriesGuideEyebrow: "Fokus Siri",
       product: "Produk", ask: "Pesan Sekarang melalui WhatsApp", priceNote: "Harga ialah cadangan harga runcit dan termasuk SST. Stok dan harga akhir perlu disahkan melalui WhatsApp atau kedai.",
       heroPanelTitle: "Kedai dan Tempahan", heroPanelText: "Semak dahulu gaya kanta sentuh dan harga rujukan secara online, kemudian sahkan stok, preskripsi, dan butiran pembelian melalui WhatsApp atau di kedai.", featureYears: "Servis Tempatan Lama", featureYearsText: "Berkhidmat untuk komuniti Ipoh dan kawasan sekitar dengan nasihat kanta sentuh serta cermin mata yang praktikal.", featureService: "Fokus Online", featureServiceText: "Laman web ini kini memberi tumpuan kepada semakan dan pertanyaan kanta sentuh, manakala produk cermin mata lain masih boleh didapati melalui WhatsApp atau di kedai.", featureCare: "Harga Jelas", featureCareText: "Pelanggan boleh semak siri dan harga rujukan online, kemudian sahkan stok, preskripsi, dan harga akhir melalui WhatsApp atau kedai.", homeFeatureOne: "Nasihat Profesional", homeFeatureOneText: "Kami membantu pelanggan memilih kanta sentuh yang lebih sesuai mengikut preskripsi, kekerapan pemakaian, keselesaan dan bajet.", homeFeatureTwo: "Susulan Kedai", homeFeatureTwoText: "Selepas pertanyaan online, pelanggan boleh datang ke kedai Ipoh untuk pengesahan, ambilan, pelarasan dan soalan penjagaan.", homeFeatureThree: "Jenama dan Siri", homeFeatureThreeText: "Kanta sentuh ACUVUE dan Bausch & Lomb kini tersedia, dengan tapisan pantas mengikut jenama, siri, dan kategori.", homeNoteEyebrow: "Maklumat Tambahan", homeNoteTitle: "Laman web kini memberi tumpuan kepada kanta sentuh", homeNoteText: "Jika anda ingin membeli cermin mata, bingkai, membuat pemeriksaan mata, atau bertanya tentang produk lain, sila hubungi kami melalui WhatsApp atau datang terus ke kedai.", contactEyebrow: "Hubungi", contactWhatsapp: "Pesan Sekarang melalui WhatsApp", contactMaps: "Navigasi dengan Google Maps",
-      viewDetails: "Lihat pilihan", startingFrom: "Dari", imagePlaceholder: "Ruang gambar produk", chooseSpec: "Pilih spesifikasi", chooseColor: "Pilih warna", chooseQuantity: "Pilih kuantiti", customQuantity: "Kuantiti sendiri", selectedPrice: "Harga rujukan dipilih", unitPrice: "Harga seunit", estimatedTotal: "Jumlah anggaran", color: "Warna", spec: "Spesifikasi", selectedQty: "Kuantiti dipilih", defaultOnly: "Produk ini mempunyai satu spesifikasi lalai sahaja.", bundleAvailable: "Beli {qty}+ kotak untuk {price}{suffix}.", bundleApplied: "Harga promosi untuk {qty}+ kotak sedang digunakan.",
+      viewDetails: "Lihat pilihan", startingFrom: "Dari", imagePlaceholder: "Ruang gambar produk", chooseSpec: "Pilih spesifikasi", chooseColor: "Pilih warna", chooseVision: "Pilih rabun jauh / dekat", choosePower: "Pilih kuasa mata kanan / kiri", chooseQuantity: "Pilih kuantiti", customQuantity: "Kuantiti sendiri", selectedPrice: "Harga rujukan dipilih", unitPrice: "Harga seunit", estimatedTotal: "Jumlah anggaran", color: "Warna", spec: "Spesifikasi", selectedQty: "Kuantiti dipilih", selectedVision: "Jenis kuasa", myopia: "Rabun jauh", hyperopia: "Rabun dekat", rightEye: "Mata kanan", leftEye: "Mata kiri", sameAsRight: "Sama seperti kanan", sph: "SPH / Kuasa", cyl: "CYL / Silinder", axis: "AXIS", addPower: "ADD", selectPlaceholder: "Pilih", notSelected: "Belum dipilih", defaultOnly: "Produk ini mempunyai satu spesifikasi lalai sahaja.", bundleAvailable: "Beli {qty}+ kotak untuk {price}{suffix}.", bundleApplied: "Harga promosi untuk {qty}+ kotak sedang digunakan.",
       saved: "Disimpan.", deleted: "Dipadam.", imported: "Import selesai.", reset: "Data sampel telah diset semula.", invalid: "Format data tidak sah.", loginBad: "用户名或密码不正确 / Invalid username or password", empty: "Tiada data", emptyText: "Tambah produk atau set semula data sampel."
     }
   };
@@ -39,6 +39,32 @@
     bestFor: { zh: "适合", en: "Best for", ms: "Sesuai untuk" },
     keyFocus: { zh: "特点", en: "Key focus", ms: "Ciri utama" },
     style: { zh: "风格", en: "Style", ms: "Gaya" }
+  };
+
+  const defaultPrescriptions = {
+    "acuvue-oasys": { sph: "-0.50D 至 -12.00D；+0.50D 至 +8.00D", cyl: "—", axis: "—", add: "—", note: "普通近视 / 远视；OASYS 日抛与双周抛范围一致。" },
+    "acuvue-moist": { sph: "-0.50D 至 -12.00D", cyl: "—", axis: "—", add: "—", note: "规格表未列远视正度数。" },
+    "acuvue-vita": { sph: "-0.50D 至 -12.00D", cyl: "—", axis: "—", add: "—", note: "规格表未列远视正度数。" },
+    "acuvue-define": { sph: "Plano 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "不提供 -0.25D；无散光款。" },
+    "acuvue-oasys-astigmatism": { sph: "Plano 至 -9.00D；+0.25D 至 +4.00D（日抛）/ +6.00D（双周抛）", cyl: "约 -0.75D 至 -2.25D（日抛）/ -2.75D（双周抛）", axis: "依 SPH / CYL 组合开放", add: "—", note: "需完整散光处方；实际组合需确认。" },
+    "acuvue-moist-astigmatism": { sph: "Plano 至 -9.00D", cyl: "约 -0.75D 至 -2.25D", axis: "依 SPH / CYL 组合开放", add: "—", note: "需完整散光处方；实际组合需确认。" },
+    "acuvue-vita-astigmatism": { sph: "Plano 至 -9.00D", cyl: "约 -0.75D 至 -2.25D", axis: "依 SPH / CYL 组合开放", add: "—", note: "需完整散光处方；实际组合需确认。" },
+    "acuvue-moist-multifocal": { sph: "Plano 至 -9.00D；+0.25D 至 +6.00D", cyl: "—", axis: "—", add: "LOW +0.75 至 +1.25；MID +1.50 至 +1.75；HIGH +2.00 至 +2.50", note: "老花 / 多焦点。" },
+    "bauschlomb-soflens-59": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-soflens-38": { sph: "+0.50D 至 +4.00D；-0.50D 至 -5.00D；-5.50D 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-soflens-daily-disposable": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-biotrue-oneday": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-purevision-2-hd": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -12.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-ultra": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -12.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-ultra-one-day": { sph: "+0.50D 至 +6.00D；-0.50D 至 -6.00D；-6.50D 至 -12.00D", cyl: "—", axis: "—", add: "—", note: "" },
+    "bauschlomb-soflens-toric": { sph: "+0.25D 至 +6.00D；Plano 至 -6.00D；-6.50D 至 -9.00D", cyl: "-0.75D 至 -2.75D", axis: "10° 至 180°，每 10° 一级", add: "—", note: "实际组合需确认。" },
+    "bauschlomb-ultra-astigmatism": { sph: "+0.25D 至 +6.00D；Plano 至 -6.00D；-6.50D 至 -9.00D", cyl: "-0.75D 至 -2.75D", axis: "10° 至 180°，每 10° 一级", add: "—", note: "实际组合需确认。" },
+    "bauschlomb-soflens-daily-disposable-astigmatism": { sph: "Plano 至 -6.00D；-6.50D 至 -9.00D", cyl: "-0.75D、-1.25D、-1.75D", axis: "20°、90°、160°、180°", add: "—", note: "参数组合有限。" },
+    "bauschlomb-soflens-multifocal": { sph: "+0.25D 至 +6.00D；Plano 至 -6.00D；-6.50D 至 -7.00D", cyl: "—", axis: "—", add: "High / Low", note: "老花 / 多焦点。" },
+    "bauschlomb-purevision-2-presbyopia": { sph: "+0.25D 至 +6.00D；Plano 至 -6.00D；-6.50D 至 -10.00D", cyl: "—", axis: "—", add: "High / Low", note: "老花 / 多焦点。" },
+    "bauschlomb-ultra-presbyopia": { sph: "+0.25D 至 +6.00D；Plano 至 -10.00D", cyl: "—", axis: "—", add: "High / Low", note: "老花 / 多焦点。" },
+    "lacelle-grace-daily": { sph: "Plano；-0.50D 至 -6.00D；-6.50D 至 -10.00D", cyl: "—", axis: "—", add: "—", note: "不提供 -0.25D。" },
+    "lacelle-diamond-daily": { sph: "Plano、-0.50D；-1.00D 至 -6.00D；-6.50D 至 -9.00D", cyl: "—", axis: "—", add: "—", note: "不提供 -0.25D 及 -0.75D。" }
   };
 
 
@@ -81,7 +107,7 @@
     }
   };
 
-  const state = { lang: "en", data: loadData(), selectedBrand: "ACUVUE", selectedSeries: "all", selectedCategory: "all", selectedProductId: null, selectedVariantId: null, selectedQty: 1, selectedColorId: null, clientSection: "home", adminId: null, adminAuthed: sessionStorage.getItem(ADMIN_AUTH_KEY) === "1" };
+  const state = { lang: "en", data: loadData(), selectedBrand: "ACUVUE", selectedSeries: "all", selectedCategory: "all", selectedProductId: null, selectedVariantId: null, selectedQty: 1, selectedColorId: null, selectedVisionType: null, selectedEyes: emptyEyeSelections(), clientSection: "home", adminId: null, adminAuthed: sessionStorage.getItem(ADMIN_AUTH_KEY) === "1" };
 
   function clone(value) { return JSON.parse(JSON.stringify(value)); }
   function mergeCollectionById(defaultItems, savedItems) {
@@ -266,6 +292,180 @@
     if (pricing.bundleActive) return formatCopy("bundleApplied", { qty: bundleQty });
     return formatCopy("bundleAvailable", { qty: bundleQty, price: rm(variant.bundle.unitPrice || 0), suffix: perBox() });
   }
+  function emptyEyeSelections() {
+    return { right: { sph: "", cyl: "", axis: "", add: "" }, left: { sph: "", cyl: "", axis: "", add: "" } };
+  }
+  function setEyeValue(eye, field, value) {
+    if (!state.selectedEyes?.[eye]) state.selectedEyes = emptyEyeSelections();
+    state.selectedEyes[eye][field] = value;
+  }
+  function copyRightEyeToLeft() {
+    state.selectedEyes.left = { ...(state.selectedEyes?.right || emptyEyeSelections().right) };
+  }
+  function setVisionType(type) {
+    state.selectedVisionType = type || null;
+    state.selectedEyes = emptyEyeSelections();
+  }
+  function parsePowerValue(value) {
+    if (/plano/i.test(value)) return 0;
+    const match = String(value || "").match(/[+-]?\d+(?:\.\d+)?/);
+    return match ? Number(match[0]) : null;
+  }
+  function formatPower(value) {
+    if (Number(value) === 0) return "Plano";
+    return `${value > 0 ? "+" : ""}${Number(value).toFixed(2)}D`;
+  }
+  function addOption(options, value) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) return;
+    const label = formatPower(value);
+    if (!options.includes(label)) options.push(label);
+  }
+  function stepPower(value, direction) {
+    return Math.abs(value) >= 6 ? direction * 0.5 : direction * 0.25;
+  }
+  function buildPowerRange(start, end, options) {
+    const direction = end >= start ? 1 : -1;
+    let current = start;
+    let guard = 0;
+    while ((direction > 0 ? current <= end : current >= end) && guard < 80) {
+      addOption(options, Number(current.toFixed(2)));
+      current += stepPower(current, direction);
+      guard += 1;
+    }
+  }
+  function rawSphOptions(product) {
+    const prescription = defaultPrescriptions[product?.id] || {};
+    const source = `${prescription.sph || ""}`;
+    const options = [];
+    [...source.matchAll(/(Plano|[+-]?\d+(?:\.\d+)?)D?\s*至\s*(Plano|[+-]?\d+(?:\.\d+)?)D?/gi)].forEach(match => {
+      const start = parsePowerValue(match[1]);
+      const end = parsePowerValue(match[2]);
+      if (start !== null && end !== null) buildPowerRange(start, end, options);
+    });
+    if (/Plano/i.test(source)) addOption(options, 0);
+    (source.match(/[+-]\d+(?:\.\d+)?D/g) || []).forEach(value => addOption(options, parsePowerValue(value)));
+    if (!options.length) buildPowerRange(-0.5, -9, options);
+    const note = `${prescription.note || ""}`;
+    ["-0.25D", "-0.75D"].forEach(value => {
+      if (!note.includes(value.replace("D", ""))) return;
+      const index = options.indexOf(value);
+      if (index >= 0) options.splice(index, 1);
+    });
+    return options;
+  }
+  function visionTypes(product) {
+    if (product?.category !== "myopia-hyperopia") return [];
+    const options = rawSphOptions(product);
+    const hasMyopia = options.some(option => parsePowerValue(option) < 0);
+    const hasHyperopia = options.some(option => parsePowerValue(option) > 0);
+    return hasMyopia && hasHyperopia ? ["myopia", "hyperopia"] : [];
+  }
+  function effectiveVisionType(product) {
+    const types = visionTypes(product);
+    if (!types.length) return null;
+    return types.includes(state.selectedVisionType) ? state.selectedVisionType : null;
+  }
+  function sphOptions(product, visionType = effectiveVisionType(product)) {
+    const options = rawSphOptions(product);
+    if (visionType === "myopia") return options.filter(option => parsePowerValue(option) < 0);
+    if (visionType === "hyperopia") return options.filter(option => parsePowerValue(option) > 0);
+    return options;
+  }
+  function rangeValuesFromText(text, step) {
+    const source = String(text || "");
+    if (!source || source.includes("—")) return [];
+    const range = source.match(/([+-]?\d+(?:\.\d+)?)D?\s*至\s*([+-]?\d+(?:\.\d+)?)D?/);
+    if (range) {
+      const start = Number(range[1]);
+      const end = Number(range[2]);
+      const direction = end >= start ? 1 : -1;
+      const values = [];
+      for (let current = start, guard = 0; (direction > 0 ? current <= end : current >= end) && guard < 40; current += direction * step, guard += 1) {
+        values.push(`${current > 0 ? "+" : ""}${current.toFixed(2)}D`);
+      }
+      (source.match(/[+-]\d+(?:\.\d+)?D?/g) || []).forEach(value => {
+        const label = `${Number(value.replace("D", "")).toFixed(2)}D`;
+        if (!values.includes(label)) values.push(label);
+      });
+      return values;
+    }
+    return Array.from(new Set((source.match(/[+-]\d+(?:\.\d+)?D?/g) || []).map(value => `${Number(value.replace("D", "")).toFixed(2)}D`)));
+  }
+  function axisOptions(product) {
+    const source = String(defaultPrescriptions[product?.id]?.axis || "");
+    if (!source || source.includes("—")) return [];
+    const range = source.match(/(\d+)°?\s*至\s*(\d+)°?/);
+    if (range) {
+      const values = [];
+      for (let axis = Number(range[1]); axis <= Number(range[2]); axis += 10) values.push(`${axis}°`);
+      return values;
+    }
+    const fixed = source.match(/\d+°/g);
+    if (fixed?.length) return Array.from(new Set(fixed));
+    return Array.from({ length: 18 }, (_, index) => `${(index + 1) * 10}°`);
+  }
+  function addOptions(product) {
+    const source = String(defaultPrescriptions[product?.id]?.add || "");
+    if (!source || source.includes("—")) return [];
+    if (/mid/i.test(source)) return ["LOW", "MID", "HIGH"];
+    if (/high/i.test(source) && /low/i.test(source)) return ["Low", "High"];
+    return Array.from(new Set(source.match(/[+-]\d+(?:\.\d+)?D?/g) || []));
+  }
+  function prescriptionFields(product) {
+    const id = String(product?.id || "").toLowerCase();
+    const category = String(product?.category || "").toLowerCase();
+    const isAstigmatism = id.includes("astigmatism") || id.includes("toric") || category.includes("astigmatism");
+    const isMultifocal = id.includes("multifocal") || id.includes("presbyopia") || category.includes("multifocal") || category.includes("presbyopia");
+    if (visionTypes(product).length && !effectiveVisionType(product)) return [];
+    const fields = [{ key: "sph", label: copy[state.lang].sph, options: sphOptions(product) }];
+    if (isAstigmatism) {
+      fields.push({ key: "cyl", label: copy[state.lang].cyl, options: rangeValuesFromText(defaultPrescriptions[product?.id]?.cyl, 0.5) });
+      fields.push({ key: "axis", label: copy[state.lang].axis, options: axisOptions(product) });
+    }
+    if (isMultifocal) fields.push({ key: "add", label: copy[state.lang].addPower, options: addOptions(product) });
+    return fields.filter(field => field.options.length);
+  }
+  function renderEyeSelect(eye, field) {
+    const current = state.selectedEyes?.[eye]?.[field.key] || "";
+    return `<label class="eye-field"><span>${escapeHtml(field.label)}</span><select data-eye="${eye}" data-eye-field="${escapeHtml(field.key)}"><option value="">${copy[state.lang].selectPlaceholder}</option>${field.options.map(option => `<option value="${escapeHtml(option)}" ${current === option ? "selected" : ""}>${escapeHtml(option)}</option>`).join("")}</select></label>`;
+  }
+  function renderVisionTypeOptions(product) {
+    const types = visionTypes(product);
+    if (!types.length) return "";
+    return `<div class="detail-option-block vision-type-block"><strong>${copy[state.lang].chooseVision}</strong><div class="option-grid vision-type-grid">${types.map(type => `<button type="button" class="option-pill ${state.selectedVisionType === type ? "active" : ""}" data-vision-type="${type}"><span>${copy[state.lang][type]}</span></button>`).join("")}</div></div>`;
+  }
+  function renderEyePowerOptions(product) {
+    if (visionTypes(product).length && !effectiveVisionType(product)) return "";
+    const fields = prescriptionFields(product);
+    if (!fields.length) return "";
+    return `<div class="detail-option-block eye-power-block">
+      <div class="eye-power-head"><strong>${copy[state.lang].choosePower}</strong><button type="button" class="btn secondary mini" data-same-as-right>${copy[state.lang].sameAsRight}</button></div>
+      <div class="eye-power-grid">
+        ${["right", "left"].map(eye => `<div class="eye-card"><strong>${copy[state.lang][eye === "right" ? "rightEye" : "leftEye"]}</strong>${fields.map(field => renderEyeSelect(eye, field)).join("")}</div>`).join("")}
+      </div>
+    </div>`;
+  }
+  function eyeSummary(product, eye) {
+    const values = prescriptionFields(product).map(field => {
+      const value = state.selectedEyes?.[eye]?.[field.key] || "";
+      return value ? `${field.label}: ${value}` : "";
+    }).filter(Boolean);
+    return values.length ? values.join(" · ") : copy[state.lang].notSelected;
+  }
+  function renderEyeSummary(product) {
+    if (!prescriptionFields(product).length) return "";
+    return `<div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(eyeSummary(product, "right"))}</dd></div><div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(eyeSummary(product, "left"))}</dd></div>`;
+  }
+  function renderVisionSummary(product) {
+    if (!visionTypes(product).length) return "";
+    const type = effectiveVisionType(product);
+    return `<div><dt>${copy[state.lang].selectedVision}</dt><dd>${type ? copy[state.lang][type] : copy[state.lang].notSelected}</dd></div>`;
+  }
+  function inquiryVisionText(product) {
+    if (!visionTypes(product).length) return "";
+    const type = effectiveVisionType(product);
+    return ` Power type: ${type ? copy[state.lang][type] : copy[state.lang].notSelected}.`;
+  }
 
   function applyLanguage(lang) {
     state.lang = lang;
@@ -377,12 +577,16 @@
         ${localText(product.notes) ? `<p class="detail-notes">${escapeHtml(localText(product.notes))}</p>` : ""}
         ${renderColorOptions(product)}
         ${renderSpecOptions(product, variant)}
+        ${renderVisionTypeOptions(product)}
+        ${renderEyePowerOptions(product)}
         ${renderQuantityOptions(product, variant)}
         <div class="price-summary">
           <strong>${copy[state.lang].selectedPrice}</strong>
           <dl>
             <div><dt>${copy[state.lang].spec}</dt><dd>${escapeHtml(variantLabel(variant, product.type === "color"))}</dd></div>
             ${colorText}
+            ${renderVisionSummary(product)}
+            ${renderEyeSummary(product)}
             <div><dt>${copy[state.lang].selectedQty}</dt><dd>${qtyText(pricing.qty)}</dd></div>
             <div><dt>${copy[state.lang].unitPrice}</dt><dd>${rm(pricing.unitPrice)}${perBox()}</dd></div>
             <div><dt>${copy[state.lang].estimatedTotal}</dt><dd>${rm(pricing.total)}</dd></div>
@@ -396,7 +600,7 @@
     if (!variantById(product, state.selectedVariantId)) state.selectedVariantId = product.variants[0]?.id || null;
     if (product.type === "color" && product.colors.length && !colorById(product, state.selectedColorId)) state.selectedColorId = product.colors[0].id;
   }
-  function resetProductSelection() { state.selectedProductId = null; state.selectedVariantId = null; state.selectedQty = 1; state.selectedColorId = null; }
+  function resetProductSelection() { state.selectedProductId = null; state.selectedVariantId = null; state.selectedQty = 1; state.selectedColorId = null; state.selectedVisionType = null; state.selectedEyes = emptyEyeSelections(); }
   function renderColorOptions(product) {
     if (product.type !== "color" || !product.colors?.length) return "";
     const grouped = product.colors.reduce((map, color) => { const group = color.group || "Colors"; if (!map[group]) map[group] = []; map[group].push(color); return map; }, {});
@@ -548,17 +752,21 @@
     if (!product || !variant) return;
     const color = product.type === "color" ? colorById(product, state.selectedColorId) : null;
     const pricing = selectedPricing(product, variant);
-    const order = { id: `INQ-${Date.now()}`, createdAt: new Date().toISOString(), productName: localText(product.name), productId: product.id, variantId: variant.id, variantLabel: variantLabel(variant, product.type === "color"), colorName: color?.name || "", quantity: pricing.qty, unitPrice: pricing.unitPrice, total: pricing.total, status: "New" };
+    const rightEye = eyeSummary(product, "right");
+    const leftEye = eyeSummary(product, "left");
+    const visionType = effectiveVisionType(product);
+    const order = { id: `INQ-${Date.now()}`, createdAt: new Date().toISOString(), productName: localText(product.name), productId: product.id, variantId: variant.id, variantLabel: variantLabel(variant, product.type === "color"), colorName: color?.name || "", visionType: visionType ? copy[state.lang][visionType] : "", rightEye, leftEye, quantity: pricing.qty, unitPrice: pricing.unitPrice, total: pricing.total, status: "New" };
     state.data.orders.unshift(order);
     saveData();
-    const message = `Hi New Focus Optical Centre, I want to order ${order.productName} ${order.variantLabel}${order.colorName ? " - " + order.colorName : ""}, quantity ${order.quantity} ${order.quantity > 1 ? "boxes" : "box"}, reference unit price ${rm(order.unitPrice)}${perBox()}, reference total ${rm(order.total)}.`;
+    const prescriptionText = prescriptionFields(product).length ? `${inquiryVisionText(product)} Right eye: ${rightEye}. Left eye: ${leftEye}.` : inquiryVisionText(product);
+    const message = `Hi New Focus Optical Centre, I want to order ${order.productName} ${order.variantLabel}${order.colorName ? " - " + order.colorName : ""}.${prescriptionText} Quantity ${order.quantity} ${order.quantity > 1 ? "boxes" : "box"}, reference unit price ${rm(order.unitPrice)}${perBox()}, reference total ${rm(order.total)}.`;
     window.open(`https://wa.me/${state.data.business.whatsappWaMe}?text=${encodeURIComponent(message)}`, "_blank", "noreferrer");
   }
   function renderOrders() {
     const host = document.getElementById("orderBoard");
     if (!host) return;
     const orders = state.data.orders || [];
-    host.innerHTML = orders.length ? orders.map(order => `<article class="card order-card"><div><strong>${escapeHtml(order.id)}</strong><span>${new Date(order.createdAt).toLocaleString()}</span></div><h3>${escapeHtml(order.productName)}</h3><p>${escapeHtml(order.variantLabel)}${order.colorName ? " · " + escapeHtml(order.colorName) : ""}</p><dl><div><dt>Qty</dt><dd>${qtyText(order.quantity)}</dd></div><div><dt>Unit</dt><dd>${rm(order.unitPrice)}${perBox()}</dd></div><div><dt>Total</dt><dd>${rm(order.total)}</dd></div></dl></article>`).join("") : emptyState();
+    host.innerHTML = orders.length ? orders.map(order => `<article class="card order-card"><div><strong>${escapeHtml(order.id)}</strong><span>${new Date(order.createdAt).toLocaleString()}</span></div><h3>${escapeHtml(order.productName)}</h3><p>${escapeHtml(order.variantLabel)}${order.colorName ? " · " + escapeHtml(order.colorName) : ""}</p><dl>${order.visionType ? `<div><dt>${copy[state.lang].selectedVision}</dt><dd>${escapeHtml(order.visionType)}</dd></div>` : ""}${order.rightEye ? `<div><dt>${copy[state.lang].rightEye}</dt><dd>${escapeHtml(order.rightEye)}</dd></div>` : ""}${order.leftEye ? `<div><dt>${copy[state.lang].leftEye}</dt><dd>${escapeHtml(order.leftEye)}</dd></div>` : ""}<div><dt>Qty</dt><dd>${qtyText(order.quantity)}</dd></div><div><dt>Unit</dt><dd>${rm(order.unitPrice)}${perBox()}</dd></div><div><dt>Total</dt><dd>${rm(order.total)}</dd></div></dl></article>`).join("") : emptyState();
   }
   function clearOrders() { state.data.orders = []; saveData(); renderOrders(); }
 
@@ -579,22 +787,29 @@
       const qtyButton = event.target.closest("[data-qty]");
       const qtyStepButton = event.target.closest("[data-qty-step]");
       const colorButton = event.target.closest("[data-color-id]");
+      const visionButton = event.target.closest("[data-vision-type]");
       if (productButton) {
         const product = productById(productButton.dataset.productId);
         state.selectedProductId = product?.id || null;
         state.selectedVariantId = product?.variants?.[0]?.id || null;
         state.selectedQty = 1;
         state.selectedColorId = product?.colors?.[0]?.id || null;
+        state.selectedVisionType = null;
+        state.selectedEyes = emptyEyeSelections();
         renderClient();
         document.getElementById("lensDetailPanel")?.scrollIntoView({ behavior: "smooth", block: "start" });
       } else if (variantButton) {
-        state.selectedVariantId = variantButton.dataset.variantId; state.selectedQty = 1; renderClient();
+        state.selectedVariantId = variantButton.dataset.variantId; state.selectedQty = 1; state.selectedVisionType = null; state.selectedEyes = emptyEyeSelections(); renderClient();
+      } else if (visionButton) {
+        setVisionType(visionButton.dataset.visionType); renderClient();
       } else if (qtyButton) {
         state.selectedQty = sanitizeQty(qtyButton.dataset.qty); renderClient();
       } else if (qtyStepButton) {
         state.selectedQty = sanitizeQty(Number(state.selectedQty) + Number(qtyStepButton.dataset.qtyStep)); renderClient();
       } else if (colorButton) {
         state.selectedColorId = colorButton.dataset.colorId; renderClient();
+      } else if (event.target.closest("[data-same-as-right]")) {
+        copyRightEyeToLeft(); renderClient();
       } else if (event.target.closest("[data-close-detail]")) {
         resetProductSelection(); renderClient();
       } else if (event.target.closest("[data-inquiry]")) {
@@ -603,8 +818,10 @@
     });
     document.getElementById("lensSectionList")?.addEventListener("change", event => {
       const qtyInput = event.target.closest("[data-qty-input]");
-      if (!qtyInput) return;
-      state.selectedQty = sanitizeQty(qtyInput.value);
+      const eyeInput = event.target.closest("[data-eye-field]");
+      if (qtyInput) state.selectedQty = sanitizeQty(qtyInput.value);
+      else if (eyeInput) setEyeValue(eyeInput.dataset.eye, eyeInput.dataset.eyeField, eyeInput.value);
+      else return;
       renderClient();
     });
     const mobileSidebarQuery = window.matchMedia("(max-width: 980px)");
