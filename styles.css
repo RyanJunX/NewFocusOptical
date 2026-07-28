@@ -343,6 +343,47 @@
   margin-bottom: 10px;
 }
 
+.eye-power-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.eye-power-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.eye-card {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid rgba(180, 24, 24, .16);
+  border-radius: 8px;
+  background: #fff8f8;
+}
+
+.eye-card > strong {
+  color: var(--red-dark);
+}
+
+.eye-field {
+  gap: 5px;
+}
+
+.eye-field select {
+  width: 100%;
+}
+
+.vision-type-grid .option-pill {
+  min-width: 150px;
+  align-items: center;
+  text-align: center;
+}
+
 .option-grid,
 .color-options {
   display: flex;
@@ -509,6 +550,15 @@
 
   .price-summary dl {
     grid-template-columns: 1fr;
+  }
+
+  .eye-power-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .eye-power-head {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .quantity-custom-row {
